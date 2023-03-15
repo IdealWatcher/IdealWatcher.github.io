@@ -1,0 +1,75 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "home_model_id": "-28",
+      "type": "home_sliders",
+      "name": "首页轮播图",
+      "font_size": "big",
+      "card_id": "-28",
+      "data": [
+        {
+          "banner_id": "796",
+          "image": "http://cdn.vistopia.com.cn/1678760486507.jpg",
+          "link_url": "vistopia://album?album_id=33"
+        }
+      ],
+      "queue": null,
+      "more": ""
+    },
+    {
+      "home_model_id": "-29",
+      "type": "home_nav",
+      "name": "首页分类图标",
+      "font_size": "big",
+      "card_id": "-29",
+      "data": [
+        {
+          "id": "3",
+          "name": "历史",
+          "icon": "http://cdn.vistopia.com.cn/1659587285689.png",
+          "black_icon": "http://cdn.vistopia.com.cn/1659587295100.png",
+          "link_url": "vistopia://class-list?class_id=2&level1_id=2&level2_id=2",
+          "tips_url": ""
+        }
+      ],
+      "queue": null,
+      "more": ""
+    },
+    {
+      "home_model_id": "-30",
+      "type": "home_today",
+      "name": "观念日历",
+      "font_size": "big",
+      "card_id": "-30",
+      "data": [
+        {
+          "id": "1484",
+          "title": "# 纪念卡尔·马克思",
+          "date": "20230314",
+          "desc": "1883年3月14日，卡尔·马克思在伦敦逝世，距离今天刚好140年。他是我们最熟知的外国哲学家之一，也是我们理解现代社会绕不开的一个人。",
+          "date_txt": "03.14",
+          "date_week_en": "星期二",
+          "date_week_cn": "星期二",
+          "is_listen": "1",
+          "type": "charge",
+          "article_id": "332543",
+          "content_id": "161",
+          "author": "杨照",
+          "catalog_id": "772",
+          "article_title": "马克思的灵魂拷问：你是作为目的还是手段而存在？",
+          "content_title": "你好，马克思先生：资本论及其创造的世界",
+          "media_type": "1",
+          "background_img": "http://cdn.vistopia.com.cn/1602382471160.jpg",
+          "media_key_full_url": "http://cdn.vistopia.com.cn/1603949183869.mp3",
+          "vid": "v02265g10002ccdacb2r686qbamp6svg",
+          "optional_media_key_full_url": "http://cdn5.vistopia.com.cn/1603949183869.mp3",
+          "media_type_en": "audio",
+          "content_media_type_en": "audio"
+        }
+      ],
+      "queue": null,
+      "more": "vistopia://today-show?date=20230314"
+    }
+  ]
+}
